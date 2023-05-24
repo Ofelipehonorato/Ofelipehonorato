@@ -1,7 +1,7 @@
 # Olá, Eu sou o Felipe Honorato 😃
-Tenho 24 anos e estou no último período do curso de Análise e Desenvolvimento de Sistemas
+Tenho 25 anos e estou no último período do curso de Análise e Desenvolvimento de Sistemas
 <br> Atualmente meu foco em estudo está voltado a área de desenvolvimento front-end. <br>
-Estou trabalhando em um provedor de internet como Analista de telefonia(VoIP) há mais de 4 anos
+Estou trabalhando em um provedor de internet como Analista de telefonia(VoIP) há mais de 5 anos
   
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipehonorato&layout=compact&langs_count=16&theme=dark"/>-->
 ##
