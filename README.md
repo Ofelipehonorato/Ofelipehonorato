@@ -1,23 +1,15 @@
 # Olá, Eu sou o Felipe Honorato 😃
 Tenho 25 anos e estou no último período do curso de Análise e Desenvolvimento de Sistemas
 <br> Atualmente meu foco em estudo está voltado a área de desenvolvimento front-end. <br>
-Estou trabalhando em um provedor de internet como Analista de telefonia(VoIP) há mais de 5 anos
   
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipehonorato&layout=compact&langs_count=16&theme=dark"/>-->
 ##
-💻 Hoje estou trabalhando com as seguintes tecnologias:
-<div styled="display: inline-block">
-  <img aling="left" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img aling="left" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img aling="left" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
-
-📘 Estou focando meus estudos:
-<div styled="display: inline-block">
-  <img aling="left" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img aling="left" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img aling="left" alt="NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
-</div>
+💻 Hoje trabalho com as seguintes tecnologias:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,figma,javascript,react,typescript,nodejs,sequelize,mysql,docker" />
+  </a>
+</p>
 
 ##
 ### 📫Fale comigo:
