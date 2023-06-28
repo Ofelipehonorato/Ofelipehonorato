@@ -1,6 +1,6 @@
 # Olá, Eu sou o Felipe Honorato 😃
 Tenho 25 anos e estou no último período do curso de Análise e Desenvolvimento de Sistemas
-<br> Atualmente meu foco em estudo está voltado a área de desenvolvimento front-end. <br>
+<br>Meus trabalhos e estudos estão voltado ao desenvolvimento fron-end<br>
   
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipehonorato&layout=compact&langs_count=16&theme=dark"/>-->
 ##
